@@ -1,0 +1,4 @@
+#Fri Jan 14 14:45:27 IST 2022
+base.0=/Users/dakshita/Documents/Apps/meal_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
